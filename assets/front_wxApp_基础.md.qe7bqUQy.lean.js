@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.BDeXF6e8.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front/wxApp/基础.md","filePath":"front/wxApp/基础.md","lastUpdated":1727269687000}'),r={name:"front/wxApp/基础.md"};function o(n,p,s,c,_,d){return a(),e("div")}const m=t(r,[["render",o]]);export{i as __pageData,m as default};
