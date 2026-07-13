@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t}from"./chunks/framework.DCf1Sbhf.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"back/java/index.md","filePath":"back/java/index.md","lastUpdated":1782052524000}'),n={name:"back/java/index.md"};function c(r,o,s,d,i,p){return e(),t("div")}const f=a(n,[["render",c]]);export{m as __pageData,f as default};
